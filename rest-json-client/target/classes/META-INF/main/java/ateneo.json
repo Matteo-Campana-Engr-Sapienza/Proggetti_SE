@@ -1,0 +1,17 @@
+{
+    "id": "0",
+    "name": "Sapienza",
+    "studenti": [{
+            "id": "0",
+            "name": "studente_0"
+        }, {
+            "id": "1",
+            "name": "studente_1"
+        }, {
+            "id": "2",
+            "name": "studente_2"
+        }, {
+            "id": "3",
+            "name": "studente_3"
+        }]
+}

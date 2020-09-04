@@ -1,0 +1,20 @@
+<ateneo>
+    <id>0</id>
+    <name>Sapienza</name>
+    <studenti>
+        <id>0</id>
+        <name>studente_0</name>
+    </studenti>
+    <studenti>
+        <id>1</id>
+        <name>studente_1</name>
+    </studenti>
+    <studenti>
+        <id>2</id>
+        <name>studente_2</name>
+    </studenti>
+    <studenti>
+        <id>3</id>
+        <name>studente_3</name>
+    </studenti>
+</ateneo>
